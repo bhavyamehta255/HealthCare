@@ -1,0 +1,32 @@
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\bin\Debug\Final health care.exe.config
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final health care.exe
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final health care.pdb
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\bin\Debug\Final health care.exe
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\bin\Debug\Final health care.pdb
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final health care.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final_health_care.Form1.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final_health_care.Form23.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final_health_care.Form3.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final_health_care.Form4.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final_health_care.Form5.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final_health_care.Form6.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final_health_care.Properties.Resources.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final health care.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\WindowsFormsApplication3\Final health care\obj\Debug\Final_health_care.Form7.resources
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\bin\Debug\Final health care.exe.config
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final health care.exe
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final health care.pdb
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\bin\Debug\Final health care.exe
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\bin\Debug\Final health care.pdb
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final_health_care.Form1.resources
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final_health_care.Form23.resources
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final_health_care.Form3.resources
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final_health_care.Form4.resources
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final_health_care.Form5.resources
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final_health_care.Form6.resources
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final_health_care.Form7.resources
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final_health_care.Properties.Resources.resources
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final health care.csproj.GenerateResource.Cache
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\obj\Debug\Final health care.csprojResolveAssemblyReference.cache
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\bin\Debug\final health care.mdf
+C:\Users\amit\Documents\Visual Studio 2010\Projects\healthcare\healthcare\bin\Debug\final health care_log.ldf
